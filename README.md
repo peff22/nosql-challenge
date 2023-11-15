@@ -9,5 +9,7 @@ This repository contains the code and files for the Eat Safe, Love data analysis
 The Eat Safe, Love directory contains:
 
 NoSQL_setup_starter.ipynb - Jupyter Notebook containing database setup and cleaning for analysis
+
 NoSQL_analysis_starter.ipynb - Jupyter Notebook containing the database analysis based on project specifications
+
 Resources directory - contains "establishments.json", which holds the raw restaurant data that was used to conduct the analysis.
